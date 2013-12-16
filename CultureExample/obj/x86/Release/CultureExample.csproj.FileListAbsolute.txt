@@ -1,0 +1,62 @@
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\bin\Release\CultureExample.exe
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\bin\Release\CultureExample.pdb
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\bin\Release\ES-ES\CultureExample.resources.dll
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\bin\Release\ES-CO\CultureExample.resources.dll
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\bin\Release\EN-US\CultureExample.resources.dll
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\CultureExample.Form1.resources
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\CultureExample.Properties.RecursosLocalizables.StringResources.resources
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\CultureExample.Properties.RecursosLocalizables.StringResources.ES-ES.resources
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\CultureExample.Properties.RecursosLocalizables.StringResources.ES-CO.resources
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\CultureExample.Properties.RecursosLocalizables.StringResources.EN-US.resources
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\ES-ES\CultureExample.resources.dll
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\ES-CO\CultureExample.resources.dll
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\EN-US\CultureExample.resources.dll
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\CultureExample.exe
+C:\Users\j.ruiz\documents\visual studio 2010\Projects\CultureExample\CultureExample\obj\x86\Release\CultureExample.pdb
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.exe
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.pdb
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\CultureExample.exe
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\CultureExample.pdb
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\ES-ES\CultureExample.resources.dll
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\ES-CO\CultureExample.resources.dll
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\EN-US\CultureExample.resources.dll
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.Form1.resources
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.Properties.RecursosLocalizables.StringResources.resources
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.Properties.RecursosLocalizables.StringResources.ES-ES.resources
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.Properties.RecursosLocalizables.StringResources.ES-CO.resources
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.Properties.RecursosLocalizables.StringResources.EN-US.resources
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\ES-ES\CultureExample.resources.dll
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\ES-CO\CultureExample.resources.dll
+C:\Users\j.ruiz\Documents\Perfil Flotante\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\EN-US\CultureExample.resources.dll
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\CultureExample.exe
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\CultureExample.pdb
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\CultureResources.dll
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\CultureResources.pdb
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\ES-CO\CultureResources.resources.dll
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\ES-US\CultureResources.resources.dll
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\bin\Release\JA-JP\CultureResources.resources.dll
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.Form1.resources
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.exe
+D:\Perfiles\Juank\Programacion\C Sharp\Normal\CultureExample\CultureExample\obj\x86\Release\CultureExample.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\obj\x86\Release\CultureExample.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\obj\x86\Release\CultureExample.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\bin\Release\CultureExample.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\bin\Release\CultureExample.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\bin\Release\CultureResources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\bin\Release\CultureResources.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\bin\Release\ES-CO\CultureResources.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\bin\Release\ES-US\CultureResources.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\bin\Release\JA-JP\CultureResources.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\obj\x86\Release\CultureExample.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Nuevos\CultureExample\CultureExample\obj\x86\Release\GenerateResource.write.1.tlog
